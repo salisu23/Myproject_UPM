@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "pytorch-for-deep-learning",
+			"path": "../pytorch-for-deep-learning/pytorch-for-deep-learning"
+		}
+	],
+	"settings": {}
+}
